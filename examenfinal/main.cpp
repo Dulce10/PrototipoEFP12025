@@ -2,18 +2,11 @@
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
-#include "usuarios.h"
 #include "catalogos.h"
-#include "procesos.h"
 #include "bitacora.h"
-#include "proveedor.h"
 #include "reportes.h"
-#include "acreedor.h"
 #include "cliente.h"
-#include "pago.h"
-#include "transaccion.h"
 #include <limits>
-#include "factura.h"
 
 using namespace std;
 
